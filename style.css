@@ -3,6 +3,11 @@ body {
   padding: 0;
 }
 #map {
+  .mapboxgl-map {
+  border: 5px solid orange; 
+  border-radius: 10px;      
+}
+
   position: absolute;
   top: 0;
   bottom: 0;
