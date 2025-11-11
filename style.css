@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 #map {
  position: absolute;
   top: 0;
@@ -23,3 +24,4 @@ body {
     font-size: 24px;
     color: #333;
 }
+ map.addControl(new mapboxgl.NavigationControl(), 'top-right');
