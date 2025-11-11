@@ -3,11 +3,12 @@ body {
   padding: 0;
 }
 #map {
-
-  position: absolute;
+ position: absolute;
   top: 0;
   bottom: 0;
-  width: 100%; }
+  width: 100%;
+  border: 5px solid orange;   
+  border-radius: 10px;        }
   h1 {
     position: absolute;
     top: 20px;
