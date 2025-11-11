@@ -57,5 +57,7 @@ map.on('mouseleave', 'points-layer', () => {
 });
 
   });
+
+//MAP MADE BY JACK CONNELL; All DATA ACQUIRED FROM THE FOLLOWING: geojson, mapbox, Berkeley Architectural Heritage Association
    
 
